@@ -20,5 +20,8 @@
       "entitiesDir": "src/entity",
       "migrationsDir": "src/migration",
       "subscribersDir": "src/subscriber"
+   },   
+   "extra": {
+      "ssl": true
    }
 }
