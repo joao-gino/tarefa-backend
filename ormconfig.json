@@ -1,10 +1,10 @@
 {
    "type": "postgres",
-   "host": "ziggy.db.elephantsql.com",
+   "host": "ep-frosty-dust-73710716.us-east-2.aws.neon.tech",
    "port": 5432,
-   "username": "gpazrbku",
-   "password": "5ldV40O2okfOyCYOG333z5NWGC-ywnlH",
-   "database": "gpazrbku",
+   "username": "cgino95",
+   "password": "jVBR83HEFACo",
+   "database": "tarefa-backend",
    "synchronize": true,
    "logging": false,
    "entities": [
